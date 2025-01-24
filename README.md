@@ -1,4 +1,4 @@
-# ** WeatherApp** 
+# ** WeatherApp ** 
 
 ## Overview
 WeatherApp is a user-friendly application designed to provide accurate and up-to-date weather information. With a clean interface and reliable data sources, WeatherApp allows users to plan their day or week with confidence.
